@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #7952b3;
+    
+}
+.carousel-item{
+    height: 550px;
+}
+.scrolespy{
+    overflow: scroll;
+    height: 150px;
+}
